@@ -1,0 +1,23 @@
+## ===================================================================
+## ARCHIVO .GITIGNORE - PROYECTO VJMV MOVEMENT
+## ===================================================================
+
+# Carpetas y archivos de compilación de .NET
+**/bin/
+**/obj/
+
+# Archivos temporales y configuración local de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sqlite
+
+# Archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs y volcados de depuración
+*.log
